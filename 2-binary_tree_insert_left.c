@@ -3,8 +3,8 @@
 /**
  * binary_tree_insert_left - insert a node as the left-child of another node
  * @parent: the pointer to the struc parent
- * @value: the value to the new right node
- * Return: the pointer to the new right node
+ * @value: the value to the new left node
+ * Return: the pointer to the new left node
  */
 binary_tree_t *binary_tree_insert_left(binary_tree_t *parent, int value)
 {
